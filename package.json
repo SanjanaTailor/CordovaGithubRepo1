@@ -1,0 +1,21 @@
+{
+    "name": "com.example.cordovagithubrepo1",
+    "version": "1.0.0",
+    "displayName": "CordovaGithubRepo1",
+    "cordova": {
+        "platforms": [
+            "android",
+            "ios",
+            "windows"
+        ],
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        }
+    },
+    "dependencies": {
+        "cordova-android": "~6.2.3",
+        "cordova-ios": "^4.4.0",
+        "cordova-plugin-whitelist": "1",
+        "cordova-windows": "^5.0.0"
+    }
+}
